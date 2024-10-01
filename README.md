@@ -22,4 +22,6 @@
 
 ## Task 4
 
+![](Task4.png)
+
 ## Task 5
