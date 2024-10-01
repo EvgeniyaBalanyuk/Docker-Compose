@@ -5,6 +5,8 @@
 
 ## Task 2
 
+![](https://github.com/EvgeniyaBalanyuk/Docker-Compose/blob/main/Task2.png)
+
 ## Task 3
 
 ## Task 4
