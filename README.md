@@ -25,3 +25,15 @@
 ![](Task4.png)
 
 ## Task 5
+
+![](Task5.1.png)
+
+Docker по умолчанию ищет файл с именем docker-compose.yaml. В данном случае, файл docker-compose.yaml будет использоваться, потому что именно это имя Docker рассматривает как дефолтное. Файл compose.yaml будет проигнорирован.
+
+![](Task5.2.png)
+
+![](Task5.3.png)
+
+![](Task5.4.png)
+
+Сообщение Found orphan containers ([task5-portainer-1]) for this project говорит о том, что в системе остались контейнеры, которые не соответствуют текущему определению стека. Контейнер task5-portainer-1, который был запущен из файла compose.yaml, который был удален.
